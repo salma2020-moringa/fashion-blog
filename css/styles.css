@@ -1,0 +1,22 @@
+.header {
+    width: 10%;
+    float: right;
+    background-color: yellow;
+  }
+.main {
+    width: 10%;
+    float: left;
+    background-color: darkred;
+  }
+.header{
+  font-size: medium;
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
