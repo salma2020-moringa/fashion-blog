@@ -11,39 +11,86 @@
      border-right: none;
  }
  .picture-projects{
-         padding: 0%;
-         background-color: black;
-         position: top;
+         background-color: none;
  } 
  .picture-one{
-     background-color: blueviolet;
+     background-color: none;
      width: 300px;
-     height: 200px;
-     margin-left: 0px;
+     height: 300px;
      display: inline-block;
+     padding: 0px 40px 0px 40px;
+     vertical-align: top;
      position: relative;
-     padding: 20px 120px 20px 20px;
+
 
  }
  .picture-two{
-    background-color: crimson;
+    background-color: none;
     width: 300px;
-    height: 200px;
-    margin-left: 40px;
-    vertical-align: top;
+    height: 300px;
     display: inline-block;
-    position: relative;
-    padding: 20px 120px 20px 20px;
+    padding: 0px 40px 0px 40px;
+    margin-left: 80px;
+    vertical-align: top;
+
 
  }
  .picture-three{
-    background-color: cadetblue;
+    background-color: none;
     width: 300px;
-    height: 200px;
-    margin-left: 200px;
-    display: flex;
+    height: 300px;
+    display: inline-block;
+    margin-left: 80px;
     vertical-align: top;
-    position: relative;
-    padding: 20px 120px 20px 20px;
+
 
  }
+ .img-project1{
+     height: 250px;
+     width: 350px;
+     float: left;
+     margin-right: 20px;
+     position: absolute;
+ }
+
+ .img-project2{
+    height: 250px;
+    width: 350px;
+}
+
+.img-project3{
+    height: 300px;
+    width: 300px;
+}
+.fa fa-facebook{
+    padding: 10px;
+    float: left;
+    display: inline-block;
+}
+.fa fa-twitter{
+    padding: 10px;
+    float: left;
+    display: inline-block;
+}
+    
+.fa fa-instagram{
+    padding: 10px;
+    float: left;
+    display: inline-block;
+
+}
+.icons{
+    text-align: right;
+    margin: 20px;
+}
+.intro{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    vertical-align: 100px;
+
+}
+.aboutme-header{
+    text-align: center;
+    margin-top: 70px;
+}
