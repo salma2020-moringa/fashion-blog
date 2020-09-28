@@ -10,3 +10,40 @@
      border-left: none;
      border-right: none;
  }
+ .picture-projects{
+         padding: 0%;
+         background-color: black;
+         position: top;
+ } 
+ .picture-one{
+     background-color: blueviolet;
+     width: 300px;
+     height: 200px;
+     margin-left: 0px;
+     display: inline-block;
+     position: relative;
+     padding: 20px 120px 20px 20px;
+
+ }
+ .picture-two{
+    background-color: crimson;
+    width: 300px;
+    height: 200px;
+    margin-left: 40px;
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+    padding: 20px 120px 20px 20px;
+
+ }
+ .picture-three{
+    background-color: cadetblue;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    display: flex;
+    vertical-align: top;
+    position: relative;
+    padding: 20px 120px 20px 20px;
+
+ }
